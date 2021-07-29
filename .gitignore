@@ -1,5 +1,8 @@
+.vscode/*
+
 bin/*
 
+build/_deps/*
 build/CMakeFiles/*
 build/*.cmake
 build/CMakeCache.txt
